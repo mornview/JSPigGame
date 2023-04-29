@@ -105,3 +105,4 @@ btnHold.addEventListener('click', function () {
 
 // Start the new game
 btnNew.addEventListener('click', initGame);
+// New features needed
